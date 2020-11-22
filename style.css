@@ -1,0 +1,12 @@
+/* css stylesheet */
+
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  background-color: lightsalmon;
+  border-radius: 25px;
+  margin-top: 15px;
+}
